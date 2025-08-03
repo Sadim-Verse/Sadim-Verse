@@ -1,8 +1,17 @@
 ## Hi there 😁
 
-I'm *Ibraheem* 
+I'm **Ibraheem** 
 
-I'm exploring machine learning and game development to craft intelligent, immersive worlds
+Right now, I’m diving into machine learning and game development, chasing the idea of worlds that don’t just look alive, but *think*.
+
+Most of my time is spent on VS Code and godot, but i balance screen time with books and anime marathons.
+
+Lately, i've been fascinated with how machines learn and understand the human world.
+
+⚡ Fun fact:
+  - I love experimenting with ways AI can shape gameplay, not just graphics.
+  - Half my “ideas” come from random anime scenes… the other half while waiting for code to compile.
+
 <!--
 **Sadim-Verse/Sadim-Verse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
