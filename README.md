@@ -4,7 +4,7 @@ I'm **Ibraheem**
 
 Right now, I’m diving into machine learning and game development, chasing the idea of worlds that don’t just look alive, but *think*.
 
-Most of my time is spent on VS Code and godot, but i balance screen time with books and anime marathons.
+Most of my time is spent on VS Code and godot, but i try to balance screen time with books.
 
 Lately, i've been fascinated with how machines learn and understand the human world.
 
