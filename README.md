@@ -2,9 +2,9 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Ibraheem+%F0%9F%91%8B;ML+%26+Game+AI+Developer;I+build+things+that+learn.)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00f7ff&style=flat)
-[![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=flat&color=00f7ff)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_HANDLE)
+![Profile Views](https://komarev.com/ghpvc/?username=Sadim-Verse&color=00f7ff&style=flat)
+[![Followers](https://img.shields.io/github/followers/Sadim-Verse?style=flat&color=00f7ff)](https://github.com/Sadim-Verse)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/ibraheem-sadu/)
 
 </div>
 
